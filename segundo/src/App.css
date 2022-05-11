@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  background-color: rgb(89, 201, 189);
+  padding: 20px;
+  height: 20vh;
+}
+
+.header h1 {
+  color: white;
+  width: 150px;
+  margin-bottom: 10px;
+}
+
+.main {
+  background-color: rgb(214, 255, 251);
+  padding: 20px;
+  color: rgb(0, 0, 0);
+  line-height: 30px;
+  height: 80vh;
+}
+
+.main ul {
+  padding-left: 25px;
+  list-style: square;
+}
+
+.footer {
+  background-color: rgb(89, 201, 189);
+  text-align: center;
+  padding: 20px 0;
+  height: 10vh;
+}
+
+.footer a {
+  color: black;
+  text-decoration: none;
+}
+
+.img {
+  width: 300px;
+  height: 240px;
+}
